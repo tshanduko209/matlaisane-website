@@ -1,7 +1,7 @@
 Thanks for downloading this theme!
 
-Theme Name: Reveal
-Theme URL: https://bootstrapmade.com/reveal-bootstrap-corporate-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Theme Name: Matlaisane 3.0
+Theme URL:
+Author: 
+Author URL: 
 https://tshanduko209.github.io/matlaisane-website/
