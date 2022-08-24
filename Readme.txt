@@ -1,7 +1,5 @@
-Thanks for downloading this theme!
-
 Theme Name: Matlaisane 3.0
-Theme URL:
-Author: 
+Theme URL:www.matlaisanesec.co.za
+Author: Tshanduko IT Solutions 
 Author URL: 
 https://tshanduko209.github.io/matlaisane-website/
